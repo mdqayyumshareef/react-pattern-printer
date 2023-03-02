@@ -1,0 +1,16 @@
+.App {
+  margin-top: 50px;
+  padding-left: 20px;
+}
+
+.wrapper {
+  display: grid;
+  grid-auto-flow: row;
+  justify-content: start;
+  overflow-x: scroll;
+}
+
+.item {
+  padding: 4px;
+  text-align: center;
+}
